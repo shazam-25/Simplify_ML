@@ -1,2 +1,4 @@
-# Simple_ML
-Repository consists of practice ML algorithms for learning purpose.
+# Simplify_ML
+Sample Python files to demonstrate Supervised Machine Learning Algorithms.
+1. Linear Regression
+2. Logistic Regression
