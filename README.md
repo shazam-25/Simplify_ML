@@ -1,5 +1,5 @@
 # Simplify_ML
-Supervised Learning
+**Supervised Learning**
 1. Linear Regression
 2. Logistic Regression
 3. Decision Trees
