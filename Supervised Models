@@ -1,9 +1,0 @@
-The folder contains Python Notebooks demonstrating the Supervised Machine Learning techniques.
-Supervised Learning algorithms:
-1. Simple Linear Regression
-2. Multiple Linear Regression
-3. Decision Tree
-4. Random Forest
-5. Ensemble Technique (XGBoost)
-6. SVM
-Python Notebook demonstrating Model metrics is also added.
