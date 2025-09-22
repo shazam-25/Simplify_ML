@@ -1,4 +1,5 @@
-# Simplify_ML
+# Machine Learning Practice with Sample Dataset
+------------------------------------
 **Supervised Learning**
 1. Linear Regression
 2. Logistic Regression
